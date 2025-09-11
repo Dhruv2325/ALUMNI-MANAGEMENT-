@@ -1,0 +1,201 @@
+alumni_id,college_name,graduation_year,department,current_location,company
+1,Gyan Ganga Institute of Technology and Science,2013,Computer Science,Pune,Flipkart
+2,Gyan Ganga Institute of Technology and Science,2011,Civil,Bengaluru,Tech Mahindra
+3,Gyan Ganga Institute of Technology and Science,2022,Electronics,Bengaluru,Wipro
+4,Gyan Ganga Institute of Technology and Science,2019,Electronics,Pune,Google
+5,Gyan Ganga Institute of Technology and Science,2010,Information Technology,Hyderabad,Cognizant
+6,Gyan Ganga Institute of Technology and Science,2016,Computer Science,Delhi,Tech Mahindra
+7,Gyan Ganga Institute of Technology and Science,2014,Electrical,Delhi,Amazon
+8,Gyan Ganga Institute of Technology and Science,2016,Civil,Delhi,TCS
+9,Gyan Ganga Institute of Technology and Science,2015,Information Technology,Mumbai,Amazon
+10,Gyan Ganga Institute of Technology and Science,2018,Information Technology,Bengaluru,Google
+11,Gyan Ganga Institute of Technology and Science,2019,Computer Science,Bengaluru,L&T
+12,Gyan Ganga Institute of Technology and Science,2013,Civil,Indore,Flipkart
+13,Gyan Ganga Institute of Technology and Science,2013,Mechanical,Hyderabad,Adani
+14,Gyan Ganga Institute of Technology and Science,2021,Computer Science,Bengaluru,Infosys
+15,Gyan Ganga Institute of Technology and Science,2012,Electronics,Delhi,Cognizant
+16,Gyan Ganga Institute of Technology and Science,2011,Computer Science,Bhopal,Flipkart
+17,Gyan Ganga Institute of Technology and Science,2018,Mechanical,Hyderabad,Flipkart
+18,Gyan Ganga Institute of Technology and Science,2016,Civil,Hyderabad,Adani
+19,Gyan Ganga Institute of Technology and Science,2014,Information Technology,Hyderabad,TCS
+20,Gyan Ganga Institute of Technology and Science,2016,Information Technology,Pune,L&T
+21,Gyan Ganga Institute of Technology and Science,2022,Information Technology,Hyderabad,Amazon
+22,Gyan Ganga Institute of Technology and Science,2023,Mechanical,Bengaluru,Cognizant
+23,Gyan Ganga Institute of Technology and Science,2020,Information Technology,Pune,TCS
+24,Gyan Ganga Institute of Technology and Science,2014,Electrical,Nagpur,Wipro
+25,Gyan Ganga Institute of Technology and Science,2022,Mechanical,Delhi,Wipro
+26,Gyan Ganga Institute of Technology and Science,2013,Electronics,Bengaluru,TCS
+27,Gyan Ganga Institute of Technology and Science,2018,Mechanical,Hyderabad,Infosys
+28,Gyan Ganga Institute of Technology and Science,2017,Mechanical,Indore,Adani
+29,Gyan Ganga Institute of Technology and Science,2016,Information Technology,Mumbai,Infosys
+30,Gyan Ganga Institute of Technology and Science,2015,Electronics,Delhi,Tech Mahindra
+31,Gyan Ganga Institute of Technology and Science,2022,Mechanical,Chennai,Cognizant
+32,Gyan Ganga Institute of Technology and Science,2021,Civil,Indore,Accenture
+33,Gyan Ganga Institute of Technology and Science,2014,Computer Science,Indore,Adani
+34,Gyan Ganga Institute of Technology and Science,2016,Computer Science,Indore,Accenture
+35,Gyan Ganga Institute of Technology and Science,2017,Information Technology,Indore,TCS
+36,Gyan Ganga Institute of Technology and Science,2020,Mechanical,Delhi,Accenture
+37,Gyan Ganga Institute of Technology and Science,2016,Computer Science,Nagpur,TCS
+38,Gyan Ganga Institute of Technology and Science,2014,Electronics,Delhi,Adani
+39,Gyan Ganga Institute of Technology and Science,2019,Civil,Pune,Tech Mahindra
+40,Gyan Ganga Institute of Technology and Science,2020,Electronics,Mumbai,Wipro
+41,Gyan Ganga Institute of Technology and Science,2013,Information Technology,Hyderabad,TCS
+42,Gyan Ganga Institute of Technology and Science,2018,Computer Science,Bengaluru,Google
+43,Gyan Ganga Institute of Technology and Science,2014,Electrical,Chennai,HCL
+44,Gyan Ganga Institute of Technology and Science,2014,Computer Science,Bhopal,L&T
+45,Gyan Ganga Institute of Technology and Science,2020,Electronics,Nagpur,Google
+46,Gyan Ganga Institute of Technology and Science,2011,Mechanical,Indore,Microsoft
+47,Gyan Ganga Institute of Technology and Science,2017,Electronics,Delhi,L&T
+48,Gyan Ganga Institute of Technology and Science,2017,Electronics,Chennai,Wipro
+49,Gyan Ganga Institute of Technology and Science,2016,Computer Science,Bhopal,Accenture
+50,Gyan Ganga Institute of Technology and Science,2021,Electrical,Bhopal,HCL
+51,Gyan Ganga Institute of Technology and Science,2010,Civil,Mumbai,Cognizant
+52,Gyan Ganga Institute of Technology and Science,2017,Civil,Chennai,HCL
+53,Gyan Ganga Institute of Technology and Science,2017,Computer Science,Pune,Tech Mahindra
+54,Gyan Ganga Institute of Technology and Science,2020,Information Technology,Bengaluru,Accenture
+55,Gyan Ganga Institute of Technology and Science,2021,Civil,Hyderabad,Microsoft
+56,Gyan Ganga Institute of Technology and Science,2011,Electronics,Delhi,Accenture
+57,Gyan Ganga Institute of Technology and Science,2017,Mechanical,Hyderabad,Google
+58,Gyan Ganga Institute of Technology and Science,2017,Electrical,Indore,Tech Mahindra
+59,Gyan Ganga Institute of Technology and Science,2022,Civil,Bhopal,Accenture
+60,Gyan Ganga Institute of Technology and Science,2012,Mechanical,Pune,TCS
+61,Gyan Ganga Institute of Technology and Science,2010,Information Technology,Hyderabad,Flipkart
+62,Gyan Ganga Institute of Technology and Science,2020,Civil,Bhopal,Flipkart
+63,Gyan Ganga Institute of Technology and Science,2015,Computer Science,Pune,Tech Mahindra
+64,Gyan Ganga Institute of Technology and Science,2018,Computer Science,Nagpur,Cognizant
+65,Gyan Ganga Institute of Technology and Science,2010,Mechanical,Mumbai,Google
+66,Gyan Ganga Institute of Technology and Science,2019,Electronics,Delhi,L&T
+67,Gyan Ganga Institute of Technology and Science,2021,Civil,Chennai,Adani
+68,Gyan Ganga Institute of Technology and Science,2014,Computer Science,Indore,Accenture
+69,Gyan Ganga Institute of Technology and Science,2021,Civil,Mumbai,TCS
+70,Gyan Ganga Institute of Technology and Science,2011,Mechanical,Indore,Accenture
+71,Gyan Ganga Institute of Technology and Science,2022,Civil,Nagpur,Adani
+72,Gyan Ganga Institute of Technology and Science,2020,Electrical,Bhopal,Infosys
+73,Gyan Ganga Institute of Technology and Science,2011,Information Technology,Hyderabad,Tech Mahindra
+74,Gyan Ganga Institute of Technology and Science,2015,Computer Science,Bhopal,Wipro
+75,Gyan Ganga Institute of Technology and Science,2010,Mechanical,Bhopal,Accenture
+76,Gyan Ganga Institute of Technology and Science,2017,Information Technology,Nagpur,Amazon
+77,Gyan Ganga Institute of Technology and Science,2021,Civil,Hyderabad,TCS
+78,Gyan Ganga Institute of Technology and Science,2016,Computer Science,Bhopal,Adani
+79,Gyan Ganga Institute of Technology and Science,2018,Information Technology,Delhi,Accenture
+80,Gyan Ganga Institute of Technology and Science,2023,Mechanical,Hyderabad,Microsoft
+81,Gyan Ganga Institute of Technology and Science,2020,Information Technology,Nagpur,Cognizant
+82,Gyan Ganga Institute of Technology and Science,2015,Mechanical,Pune,TCS
+83,Gyan Ganga Institute of Technology and Science,2018,Electronics,Hyderabad,L&T
+84,Gyan Ganga Institute of Technology and Science,2014,Electronics,Nagpur,Wipro
+85,Gyan Ganga Institute of Technology and Science,2023,Mechanical,Indore,Microsoft
+86,Gyan Ganga Institute of Technology and Science,2012,Civil,Chennai,Accenture
+87,Gyan Ganga Institute of Technology and Science,2015,Electronics,Chennai,Wipro
+88,Gyan Ganga Institute of Technology and Science,2019,Electrical,Bhopal,Adani
+89,Gyan Ganga Institute of Technology and Science,2012,Information Technology,Bengaluru,Infosys
+90,Gyan Ganga Institute of Technology and Science,2018,Civil,Chennai,Google
+91,Gyan Ganga Institute of Technology and Science,2010,Electrical,Chennai,Tech Mahindra
+92,Gyan Ganga Institute of Technology and Science,2020,Computer Science,Pune,L&T
+93,Gyan Ganga Institute of Technology and Science,2017,Information Technology,Indore,Cognizant
+94,Gyan Ganga Institute of Technology and Science,2013,Electrical,Pune,Adani
+95,Gyan Ganga Institute of Technology and Science,2010,Mechanical,Hyderabad,Amazon
+96,Gyan Ganga Institute of Technology and Science,2017,Electronics,Bengaluru,HCL
+97,Gyan Ganga Institute of Technology and Science,2015,Electrical,Bhopal,Google
+98,Gyan Ganga Institute of Technology and Science,2016,Information Technology,Nagpur,Wipro
+99,Gyan Ganga Institute of Technology and Science,2018,Computer Science,Nagpur,Amazon
+100,Gyan Ganga Institute of Technology and Science,2023,Information Technology,Mumbai,Infosys
+101,Gyan Ganga Institute of Technology and Science,2010,Civil,Bengaluru,L&T
+102,Gyan Ganga Institute of Technology and Science,2017,Mechanical,Nagpur,Wipro
+103,Gyan Ganga Institute of Technology and Science,2015,Electrical,Pune,Infosys
+104,Gyan Ganga Institute of Technology and Science,2019,Civil,Nagpur,Accenture
+105,Gyan Ganga Institute of Technology and Science,2012,Electronics,Delhi,L&T
+106,Gyan Ganga Institute of Technology and Science,2016,Mechanical,Delhi,Accenture
+107,Gyan Ganga Institute of Technology and Science,2014,Electronics,Bengaluru,Wipro
+108,Gyan Ganga Institute of Technology and Science,2015,Computer Science,Bhopal,Wipro
+109,Gyan Ganga Institute of Technology and Science,2021,Electrical,Delhi,Cognizant
+110,Gyan Ganga Institute of Technology and Science,2011,Mechanical,Chennai,TCS
+111,Gyan Ganga Institute of Technology and Science,2014,Electrical,Nagpur,Wipro
+112,Gyan Ganga Institute of Technology and Science,2014,Electrical,Mumbai,Adani
+113,Gyan Ganga Institute of Technology and Science,2012,Mechanical,Chennai,Microsoft
+114,Gyan Ganga Institute of Technology and Science,2018,Electrical,Bhopal,Flipkart
+115,Gyan Ganga Institute of Technology and Science,2016,Mechanical,Mumbai,Tech Mahindra
+116,Gyan Ganga Institute of Technology and Science,2015,Mechanical,Nagpur,L&T
+117,Gyan Ganga Institute of Technology and Science,2010,Civil,Bhopal,Microsoft
+118,Gyan Ganga Institute of Technology and Science,2023,Electronics,Nagpur,HCL
+119,Gyan Ganga Institute of Technology and Science,2018,Civil,Pune,Accenture
+120,Gyan Ganga Institute of Technology and Science,2019,Electrical,Pune,HCL
+121,Gyan Ganga Institute of Technology and Science,2014,Mechanical,Hyderabad,Google
+122,Gyan Ganga Institute of Technology and Science,2011,Electronics,Pune,Tech Mahindra
+123,Gyan Ganga Institute of Technology and Science,2013,Mechanical,Delhi,Accenture
+124,Gyan Ganga Institute of Technology and Science,2010,Information Technology,Bengaluru,Microsoft
+125,Gyan Ganga Institute of Technology and Science,2021,Electronics,Indore,L&T
+126,Gyan Ganga Institute of Technology and Science,2017,Civil,Nagpur,TCS
+127,Gyan Ganga Institute of Technology and Science,2019,Mechanical,Mumbai,Wipro
+128,Gyan Ganga Institute of Technology and Science,2010,Computer Science,Mumbai,Flipkart
+129,Gyan Ganga Institute of Technology and Science,2015,Computer Science,Mumbai,Cognizant
+130,Gyan Ganga Institute of Technology and Science,2011,Information Technology,Indore,Google
+131,Gyan Ganga Institute of Technology and Science,2022,Civil,Hyderabad,Amazon
+132,Gyan Ganga Institute of Technology and Science,2016,Civil,Nagpur,Wipro
+133,Gyan Ganga Institute of Technology and Science,2016,Electrical,Chennai,Microsoft
+134,Gyan Ganga Institute of Technology and Science,2019,Civil,Mumbai,Accenture
+135,Gyan Ganga Institute of Technology and Science,2012,Civil,Mumbai,HCL
+136,Gyan Ganga Institute of Technology and Science,2011,Electronics,Bhopal,Cognizant
+137,Gyan Ganga Institute of Technology and Science,2023,Mechanical,Chennai,Cognizant
+138,Gyan Ganga Institute of Technology and Science,2012,Computer Science,Nagpur,L&T
+139,Gyan Ganga Institute of Technology and Science,2021,Information Technology,Pune,Microsoft
+140,Gyan Ganga Institute of Technology and Science,2017,Information Technology,Pune,Flipkart
+141,Gyan Ganga Institute of Technology and Science,2018,Electrical,Chennai,Adani
+142,Gyan Ganga Institute of Technology and Science,2010,Information Technology,Mumbai,Flipkart
+143,Gyan Ganga Institute of Technology and Science,2020,Mechanical,Nagpur,Wipro
+144,Gyan Ganga Institute of Technology and Science,2023,Electrical,Nagpur,L&T
+145,Gyan Ganga Institute of Technology and Science,2011,Electrical,Bhopal,Infosys
+146,Gyan Ganga Institute of Technology and Science,2019,Civil,Hyderabad,Flipkart
+147,Gyan Ganga Institute of Technology and Science,2021,Electronics,Mumbai,Adani
+148,Gyan Ganga Institute of Technology and Science,2010,Civil,Indore,L&T
+149,Gyan Ganga Institute of Technology and Science,2012,Mechanical,Indore,L&T
+150,Gyan Ganga Institute of Technology and Science,2016,Information Technology,Nagpur,HCL
+151,Gyan Ganga Institute of Technology and Science,2023,Electronics,Mumbai,Amazon
+152,Gyan Ganga Institute of Technology and Science,2013,Electronics,Bengaluru,Accenture
+153,Gyan Ganga Institute of Technology and Science,2016,Electrical,Indore,HCL
+154,Gyan Ganga Institute of Technology and Science,2021,Civil,Delhi,Flipkart
+155,Gyan Ganga Institute of Technology and Science,2018,Electronics,Indore,Infosys
+156,Gyan Ganga Institute of Technology and Science,2017,Information Technology,Delhi,Cognizant
+157,Gyan Ganga Institute of Technology and Science,2015,Electronics,Delhi,TCS
+158,Gyan Ganga Institute of Technology and Science,2011,Civil,Hyderabad,HCL
+159,Gyan Ganga Institute of Technology and Science,2014,Mechanical,Bengaluru,HCL
+160,Gyan Ganga Institute of Technology and Science,2016,Computer Science,Delhi,Adani
+161,Gyan Ganga Institute of Technology and Science,2017,Electrical,Delhi,Wipro
+162,Gyan Ganga Institute of Technology and Science,2021,Mechanical,Bengaluru,Accenture
+163,Gyan Ganga Institute of Technology and Science,2014,Civil,Bhopal,L&T
+164,Gyan Ganga Institute of Technology and Science,2010,Information Technology,Bhopal,Tech Mahindra
+165,Gyan Ganga Institute of Technology and Science,2023,Information Technology,Hyderabad,L&T
+166,Gyan Ganga Institute of Technology and Science,2019,Electrical,Bhopal,Google
+167,Gyan Ganga Institute of Technology and Science,2012,Electronics,Hyderabad,Accenture
+168,Gyan Ganga Institute of Technology and Science,2015,Mechanical,Hyderabad,Accenture
+169,Gyan Ganga Institute of Technology and Science,2019,Information Technology,Bengaluru,TCS
+170,Gyan Ganga Institute of Technology and Science,2019,Electronics,Nagpur,Google
+171,Gyan Ganga Institute of Technology and Science,2012,Civil,Indore,Wipro
+172,Gyan Ganga Institute of Technology and Science,2018,Electrical,Mumbai,Flipkart
+173,Gyan Ganga Institute of Technology and Science,2021,Electronics,Pune,Flipkart
+174,Gyan Ganga Institute of Technology and Science,2014,Electronics,Hyderabad,Cognizant
+175,Gyan Ganga Institute of Technology and Science,2020,Civil,Bengaluru,Adani
+176,Gyan Ganga Institute of Technology and Science,2023,Civil,Pune,L&T
+177,Gyan Ganga Institute of Technology and Science,2016,Information Technology,Bengaluru,HCL
+178,Gyan Ganga Institute of Technology and Science,2021,Electrical,Pune,HCL
+179,Gyan Ganga Institute of Technology and Science,2023,Electronics,Chennai,Flipkart
+180,Gyan Ganga Institute of Technology and Science,2018,Civil,Indore,Cognizant
+181,Gyan Ganga Institute of Technology and Science,2011,Mechanical,Hyderabad,Infosys
+182,Gyan Ganga Institute of Technology and Science,2022,Information Technology,Bengaluru,Google
+183,Gyan Ganga Institute of Technology and Science,2013,Electrical,Delhi,Tech Mahindra
+184,Gyan Ganga Institute of Technology and Science,2016,Mechanical,Bengaluru,Amazon
+185,Gyan Ganga Institute of Technology and Science,2017,Civil,Bengaluru,Adani
+186,Gyan Ganga Institute of Technology and Science,2018,Information Technology,Nagpur,HCL
+187,Gyan Ganga Institute of Technology and Science,2023,Computer Science,Delhi,Accenture
+188,Gyan Ganga Institute of Technology and Science,2017,Electrical,Bhopal,Infosys
+189,Gyan Ganga Institute of Technology and Science,2012,Information Technology,Indore,TCS
+190,Gyan Ganga Institute of Technology and Science,2012,Computer Science,Mumbai,Amazon
+191,Gyan Ganga Institute of Technology and Science,2017,Mechanical,Pune,Microsoft
+192,Gyan Ganga Institute of Technology and Science,2018,Mechanical,Delhi,Accenture
+193,Gyan Ganga Institute of Technology and Science,2015,Information Technology,Delhi,Adani
+194,Gyan Ganga Institute of Technology and Science,2012,Mechanical,Pune,Flipkart
+195,Gyan Ganga Institute of Technology and Science,2022,Electronics,Delhi,Microsoft
+196,Gyan Ganga Institute of Technology and Science,2022,Civil,Bhopal,Microsoft
+197,Gyan Ganga Institute of Technology and Science,2010,Electronics,Mumbai,Microsoft
+198,Gyan Ganga Institute of Technology and Science,2017,Civil,Pune,Amazon
+199,Gyan Ganga Institute of Technology and Science,2020,Electronics,Chennai,Microsoft
+200,Gyan Ganga Institute of Technology and Science,2022,Information Technology,Bengaluru,Google
