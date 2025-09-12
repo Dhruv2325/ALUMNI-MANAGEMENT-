@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alumni Connect - Your College Network</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <style>
         * {
             margin: 0;
@@ -15,7 +16,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
             color: #333;
-            background: linear-gradient(135deg,#222537 0%, #134d54 100%);
+            background: linear-gradient(135deg, #242738 0%, #16575f 100%);
             min-height: 100vh;
         }
 
@@ -134,7 +135,7 @@
         }
 
         .modal-content {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #222537 0%, #134d54 100%);
             margin: 5% auto;
             padding: 2rem;
             border-radius: 15px;
@@ -298,6 +299,15 @@
             text-align: center;
             min-width: 80px;
         }
+        .material-symbols-outlined {
+                font-variation-settings:
+                    'FILL' 0,
+                     'wght'300,
+                    'GRAD' 0
+                    'opsz' 24;
+                    font-size: 50px;
+                    align-items: center;
+             }
 
         @media (max-width: 768px) {
             .nav-links {
@@ -323,7 +333,7 @@
 <body>
     <header>
         <nav class="container">
-            <div class="logo">🎓AlumVerse</div>
+            <div class="logo"><span class="material-symbols-outlined">school</span>AlumVerse</div>
             <ul class="nav-links">
                 <li><a href="#" onclick="openModal('home')">Home</a></li>
                 <li><a href="#" onclick="openModal('discover')">Discover Alumni</a></li>
@@ -550,6 +560,16 @@
             </div>
         </div>
     </div>
+    <!-- fundraising modal -->
+    <div id="fundraisingModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('fundraisingModal')">&times;</span>
+            <h2>💰 Fundraising Initiatives</h2>
+            <p>Support your alma mater through various fundraising initiatives. Contribute to scholarships, infrastructure development, and community projects.</p>
+            <button class="btn" onclick="alert('Fundraising initiatives activated!')">Join as Donor/Volunteer</button>
+        </div>
+    </div>
+    
 
     <script>
         function openModal(modalType) {
@@ -557,7 +577,8 @@
                 'discover': 'discoverModal',
                 'news': 'newsModal',
                 'achievements': 'achievementsModal',
-                'engagement': 'engagementModal'
+                'engagement': 'engagementModal',
+                'fundraising': 'fundraisingModal'
             };
             
             const modalId = modals[modalType];
@@ -654,5 +675,6 @@
     </script>
 </body>
 </html>
+
 
 
